@@ -1,0 +1,7 @@
+I learned that pull is the combination of fetch and merge. It makes 
+sense to be able to break it into two parts to check which edits are 
+going to happen to the files. When I did fetch upstream, everything was 
+already up to date. I know this is because the files weren't edited 
+after I added your repository as a remote. I think thus far things have 
+been pretty clear. The only thing I'm a little concerned about is 
+keeping all of the different repositories in check. 
